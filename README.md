@@ -10,7 +10,11 @@ It aids in the reduction of stress – The most important advantage of playing g
 
 It helps in the development of creative thinking – Playing games can help you become more creative in the long run. This stimulus can promote a sense of creativity and boost the brain’s overall capacity for diverse and creative thinking since players engage problem-solving skills when playing games.
 
-Technologies Required: Java, Game development, JFrame, JPanel, and Java Graphics Kit.
+## Technologies Required:
+Java, Game development, JFrame, JPanel, and Java Graphics Kit.
+
+![image](https://github.com/user-attachments/assets/dd25bebb-730f-4887-8223-6646f242a589)
+
 
 I hope you will have fun while exploring my this project :)
 
